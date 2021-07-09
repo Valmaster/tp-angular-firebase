@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "classeiw": {
+      "hosting": {
+        "pwa": [
+          "classeiw"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "classeiw"
+  }
+}
